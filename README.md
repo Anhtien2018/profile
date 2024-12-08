@@ -19,4 +19,11 @@
  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="36" height="36" alt="Livewire" />
 </a>
+  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width="36" height="36" alt="Livewire" />
+</a>
+  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="36" height="36" alt="Livewire" />
+</a>
+ 
 </p>
