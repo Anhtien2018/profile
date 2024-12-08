@@ -1,20 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dang Trinh (DEV 1)
-==================================================================================================================================
 
-I'm developer Wordpress, PHP, Laravel
--------------------------------------
-
-I have been learning to code for 3 years, I learning HTML, CSS, JS, Framework laravel, Next, Wordpress, Nodejs... I have join project reality same: E-Learning, Ecommerce, CMS...
-
-* 🌍  I'm based in VIET NAM
-* 🖥️  See my portfolio at [You can visit at:](http://github.com/iamdangtrinh)
-* ✉️  You can contact me at [dtrinhit04@gmail.com](mailto:dtrinhit04@gmail.com)
-* 🧠  I'm learning Laravel,
-
-<a href="https://www.github.com/iamdangtrinh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamdangtrinh?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
-
-### Skills
 
 
 <p align="left">
